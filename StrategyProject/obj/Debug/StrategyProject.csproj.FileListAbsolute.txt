@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\StrategyProject\StrategyProject\bin\Debug\StrategyProject.exe.config
+C:\Users\PC\source\repos\StrategyProject\StrategyProject\bin\Debug\StrategyProject.exe
+C:\Users\PC\source\repos\StrategyProject\StrategyProject\bin\Debug\StrategyProject.pdb
+C:\Users\PC\source\repos\StrategyProject\StrategyProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\StrategyProject\StrategyProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\StrategyProject\StrategyProject\obj\Debug\StrategyProject.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\StrategyProject\StrategyProject\obj\Debug\StrategyProject.csproj.CopyComplete
+C:\Users\PC\source\repos\StrategyProject\StrategyProject\obj\Debug\StrategyProject.exe
+C:\Users\PC\source\repos\StrategyProject\StrategyProject\obj\Debug\StrategyProject.pdb
